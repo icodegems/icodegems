@@ -8,4 +8,4 @@
 icodegems/icodegems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![20220801_114029](https://user-images.githubusercontent.com/113857382/190924717-c55b33a5-8140-4cec-9515-de913b96f4ee.png)
+
